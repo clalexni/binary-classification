@@ -1,2 +1,2 @@
 # binary classficiation
-20000*177
+data set size: 20000*177
